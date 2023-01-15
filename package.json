@@ -1,6 +1,7 @@
 {
-  "homepage": "https://adimno.github.io/MyPortFolio",
+  
   "name": "react-portfolio-website-1",
+  "homepage": "https://adimno.github.io/MyPortFolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
