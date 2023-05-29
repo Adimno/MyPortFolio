@@ -23,25 +23,19 @@ const about = () => {
             <article className='about_card'>
             <MdWork className='about_icon'/>
               <h5> Experience</h5>
-              <small> College Student</small>
+              <small> Mobile, Website development, and Cyber Security</small>
             </article>
 
-            <article className='about_card'>
-            <FiUsers className='about_icon'/>
-              <h5> Clients</h5>
-              <small> 200+ Worldwide</small>
-            </article>
+           
             
-              <article className='about_card'>
-              <AiFillFolder className='about_icon'/>
-              <h5> Projects</h5>
-              <small> 80+ Completed</small>
-            </article>
+             
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, modi  <br></br> soluta impedit est dolorum iure,  vero in fuga eveniet
-            <br></br> voluptatibus enim voluptatem saepe ullam 
-            incidunt at deserunt vitae provident nostrum!
+      
+            Enthusiastic IT professional with a passion for technology and an adaptable mindset.
+            Possessing strong interpersonal skills and a proactive approach to problem-solving. Fast learner seeking opportunities to apply technical knowledge, 
+            <br></br>
+            contribute to innovative projects, and make a positive impact in the technology industry.
           </p>
 
          <a href="#contact" className="btn btn-primary">Let's Talk</a>

@@ -3,6 +3,7 @@ import  './header.css'
 import CTA from './CTA'
 import ME from '../../assets/me.jpg'
 import HeaderSocials from './HeaderSocials'
+import ME1 from '../../assets/me123.jpg'
 
 const header = () => {
   return ( 
@@ -10,12 +11,12 @@ const header = () => {
     <div className="container header_container">
       <h5> Hello I'm</h5>
       <h1> Jayjay Naval</h1>
-      <h5 className="text-light">Fullstack Developer</h5>
+      <h5 className="text-light">Developer</h5>
       <CTA />
       <HeaderSocials />
       
       <div className="me">
-        <img src={ME} alt="me" />
+        <img src={ME1} alt="me" />
       </div>
 
       <a href="#contact" className="scroll_down"> Scroll Down</a>

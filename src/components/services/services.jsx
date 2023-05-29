@@ -11,37 +11,26 @@ const service = () => {
     <div className="container services_container">
     <article className="service">
   <div className="service_head">
-    <h3>UI/UX Design</h3>
+    <h3>Mobile Development</h3>
   </div>
   <ul className="service_list">
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Cross-Platform Development </p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>User Interface Design </p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Mobile APIs and Integrations </p>
     </li>
-    <li>
-      <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
-    </li>
-    <li>
-      <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
-    </li>
-    <li>
-      <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
-    </li>
+  
     
   </ul>
 
-  {/* END OF UI */}
+  {/* END OF MOBILE */}
     </article>
     <article className="service">
   <div className="service_head">
@@ -50,29 +39,25 @@ const service = () => {
   <ul className="service_list">
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Responsive Web Design </p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Back-End Development </p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Version Control </p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Front-End Frameworks</p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>E-commerce Websites </p>
     </li>
-    <li>
-      <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
-    </li>
-    
+ 
   </ul>
 
   {/* END OF WEB*/}
@@ -81,40 +66,33 @@ const service = () => {
     </article>
     <article className="service">
   <div className="service_head">
-    <h3>Content Creation</h3>
+    <h3>Cyber Security</h3>
   </div>
   <ul className="service_list">
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p> Brute Force Attack</p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>SQL Injection </p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Incident Response</p>
     </li>
     <li>
       <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+      <p>Vulnerability Assessments </p>
     </li>
-    <li>
-      <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
-    </li>
-    <li>
-      <BsCheck  className='service_list-icon'/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
-    </li>
-    
+
   </ul>
 
-  {/* END OF CONTENT */}
+
 
 
     </article>
+      {/* END OF CYBER */}
     </div>
     
     </section>
